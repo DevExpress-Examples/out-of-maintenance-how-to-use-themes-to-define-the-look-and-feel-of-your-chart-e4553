@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ChartTheme/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ChartTheme/MainWindow.xaml))
+<!-- default file list end -->
 # How to use themes to define the look and feel of your chart
 
 
